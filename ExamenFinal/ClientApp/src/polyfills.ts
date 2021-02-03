@@ -19,7 +19,11 @@
  */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /** IE11 requires the following for NgClass support on SVG elements */
+=======
+/** IE10 and IE11 requires the following for NgClass support on SVG elements */
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 =======
 /** IE10 and IE11 requires the following for NgClass support on SVG elements */
 >>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
@@ -40,7 +44,11 @@
  * in this directory (for example: zone-flags.ts), and put the following flags
  * into that file, and then add the following code before importing zone.js.
 <<<<<<< HEAD
+<<<<<<< HEAD
  * import './zone-flags';
+=======
+ * import './zone-flags.ts';
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 =======
  * import './zone-flags.ts';
 >>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
@@ -50,11 +58,17 @@
  * The following flags will work for all browsers.
  *
 <<<<<<< HEAD
+<<<<<<< HEAD
  * (window as any).__Zone_disable_requestAnimationFrame = true; // disable patch
  * requestAnimationFrame
  * (window as any).__Zone_disable_on_property = true; // disable patch onProperty such as onclick
  * (window as any).__zone_symbol__UNPATCHED_EVENTS = ['scroll', 'mousemove']; // disable patch
  * specified eventNames
+=======
+ * (window as any).__Zone_disable_requestAnimationFrame = true; // disable patch requestAnimationFrame
+ * (window as any).__Zone_disable_on_property = true; // disable patch onProperty such as onclick
+ * (window as any).__zone_symbol__UNPATCHED_EVENTS = ['scroll', 'mousemove']; // disable patch specified eventNames
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 =======
  * (window as any).__Zone_disable_requestAnimationFrame = true; // disable patch requestAnimationFrame
  * (window as any).__Zone_disable_on_property = true; // disable patch onProperty such as onclick
@@ -72,7 +86,12 @@
  * Zone JS is required by default for Angular itself.
  */
 <<<<<<< HEAD
+<<<<<<< HEAD
 import 'zone.js/dist/zone'; // Included with Angular CLI.
+=======
+import 'zone.js/dist/zone';  // Included with Angular CLI.
+
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 =======
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 

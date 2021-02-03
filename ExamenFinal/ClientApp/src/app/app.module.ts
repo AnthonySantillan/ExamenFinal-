@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
@@ -40,6 +41,8 @@ import { MessagesComponent } from './messages/messages.component';
   ],
   bootstrap: [ AppComponent ]
 =======
+=======
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
@@ -72,6 +75,9 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
+<<<<<<< HEAD
+>>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
+=======
 >>>>>>> c8d4db9807b7858a8c3b3de1d28cb09b139544da
 })
 export class AppModule { }
